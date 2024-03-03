@@ -6,4 +6,3 @@
   };
   window.byeSpeaker = byeSpeaker;
 })(window);
-
